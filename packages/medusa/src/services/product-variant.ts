@@ -1130,6 +1130,9 @@ class ProductVariantService extends TransactionBaseService {
       })
 
       const variantExists = product.variants.find((v) => {
+        if (v.options.length === 0) {
+          return undefined
+        }
         return v.options.every((option) => {
           const variantOption = variant.options.find(
             (o) => option.option_id === o.option_id
