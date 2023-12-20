@@ -1,5 +1,11 @@
 # @medusajs/types
 
+## 1.11.10
+
+### Patch Changes
+
+- [#5920](https://github.com/medusajs/medusa/pull/5920) [`3f6d79961`](https://github.com/medusajs/medusa/commit/3f6d79961dec1c5eb8950f8eacd94a5d87a4acde) Thanks [@riqwan](https://github.com/riqwan)! - feat(types,modules-sdk): basic module setup for promotions
+
 ## 1.11.9
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @medusajs/modules-sdk
 
+## 1.12.6
+
+### Patch Changes
+
+- [#5920](https://github.com/medusajs/medusa/pull/5920) [`3f6d79961`](https://github.com/medusajs/medusa/commit/3f6d79961dec1c5eb8950f8eacd94a5d87a4acde) Thanks [@riqwan](https://github.com/riqwan)! - feat(types,modules-sdk): basic module setup for promotions
+
+- Updated dependencies [[`45996d58a`](https://github.com/medusajs/medusa/commit/45996d58a2665d72335faad11bea958f8da74195), [`9cc787cac`](https://github.com/medusajs/medusa/commit/9cc787cac4bf1c5d8edf1c4b548bb3205100e822), [`3f6d79961`](https://github.com/medusajs/medusa/commit/3f6d79961dec1c5eb8950f8eacd94a5d87a4acde)]:
+  - @medusajs/utils@1.11.3
+  - @medusajs/orchestration@0.5.2
+  - @medusajs/types@1.11.10
+
 ## 1.12.5
 
 ### Patch Changes
