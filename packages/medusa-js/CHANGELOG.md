@@ -1,5 +1,11 @@
 # Change Log
 
+## 6.1.5
+
+### Patch Changes
+
+- [#5926](https://github.com/medusajs/medusa/pull/5926) [`f25ca30b3`](https://github.com/medusajs/medusa/commit/f25ca30b3aec558094b1dffe70583fcbba64b29a) Thanks [@olivermrbl](https://github.com/olivermrbl)! - fix(medusa, medusa-js): publishable api key bugs
+
 ## 6.1.4
 
 ### Patch Changes

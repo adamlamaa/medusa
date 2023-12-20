@@ -1,5 +1,28 @@
 # Change Log
 
+## 1.19.1
+
+### Patch Changes
+
+- [#5869](https://github.com/medusajs/medusa/pull/5869) [`45996d58a`](https://github.com/medusajs/medusa/commit/45996d58a2665d72335faad11bea958f8da74195) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(medusa, interfaces, utils, webshiper): Uniformise class checks
+
+- [#5450](https://github.com/medusajs/medusa/pull/5450) [`1d7888afc`](https://github.com/medusajs/medusa/commit/1d7888afca3900f8a29b72f8fd149fc3e1e2ea4a) Thanks [@fPolic](https://github.com/fPolic)! - feat(medusa, link-module): SalesChannel<>Product joiner config
+
+- [#5901](https://github.com/medusajs/medusa/pull/5901) [`1a2f513d5`](https://github.com/medusajs/medusa/commit/1a2f513d5361101b4c606b710a3905025118289e) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(medusa): Passport loader resolving to early
+
+- [#5926](https://github.com/medusajs/medusa/pull/5926) [`f25ca30b3`](https://github.com/medusajs/medusa/commit/f25ca30b3aec558094b1dffe70583fcbba64b29a) Thanks [@olivermrbl](https://github.com/olivermrbl)! - fix(medusa, medusa-js): publishable api key bugs
+
+- [#5857](https://github.com/medusajs/medusa/pull/5857) [`2d79eeeec`](https://github.com/medusajs/medusa/commit/2d79eeeecc8086d30e7f26e45f2e1aa03ca14145) Thanks [@riqwan](https://github.com/riqwan)! - chore(medusa): add currency to region responses
+
+- [#5814](https://github.com/medusajs/medusa/pull/5814) [`496dcf10c`](https://github.com/medusajs/medusa/commit/496dcf10c430b9ff9c21ee8bf8fae34ba01902de) Thanks [@adrien2p](https://github.com/adrien2p)! - Feat/cart completion conflict fixes
+
+- Updated dependencies [[`45996d58a`](https://github.com/medusajs/medusa/commit/45996d58a2665d72335faad11bea958f8da74195), [`1d7888afc`](https://github.com/medusajs/medusa/commit/1d7888afca3900f8a29b72f8fd149fc3e1e2ea4a), [`9cc787cac`](https://github.com/medusajs/medusa/commit/9cc787cac4bf1c5d8edf1c4b548bb3205100e822), [`3f6d79961`](https://github.com/medusajs/medusa/commit/3f6d79961dec1c5eb8950f8eacd94a5d87a4acde)]:
+  - @medusajs/utils@1.11.3
+  - @medusajs/link-modules@0.2.6
+  - @medusajs/orchestration@0.5.2
+  - @medusajs/workflows-sdk@0.1.1
+  - @medusajs/modules-sdk@1.12.6
+
 ## 1.19.0
 
 ### Minor Changes
